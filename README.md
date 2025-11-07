@@ -1,5 +1,5 @@
 # Francesca Dumary
-<img width="300" height="300" alt="banner for github" src="https://github.com/user-attachments/assets/8eb2fb6b-d61d-4836-b4b9-569dfab49461" />
+<img width="300" height="300" alt="banner for github" src="https://github.com/user-attachments/assets/99f34970-0855-4039-9614-33b4245352cc" />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdumary/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fdumary)
@@ -39,13 +39,11 @@ Programming 2 | Data Structures and Algorithm Analysis | Introduction to Interne
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Projects
-Here
-
-[<img width="166.5" height="111" alt="mentormatch" src="https://github.com/user-attachments/assets/ef547ecc-f870-462a-9587-1ad50d00612e" />]()
-[<img width="166.5" height="111" alt="infspec" src="https://github.com/user-attachments/assets/9ec71ce4-c349-41f8-8e95-2215398eb627" />]()
-[<img width="166.5" height="111" alt="fineprint" src="https://github.com/user-attachments/assets/1758af77-e46e-452e-8bbd-a08485ecb8b1" />]()
-[<img width="166.5" height="111" alt="citygpt" src="https://github.com/user-attachments/assets/f65cfcb1-e861-4028-9bd4-8901e8a79349" />]()
-[<img width="166.5" height="111" alt="bittoss" src="https://github.com/user-attachments/assets/4da804f1-51ff-4b20-875e-ff309ac36ad6" />]()
-[<img width="166.5" height="111" alt="crisiscom" src="https://github.com/user-attachments/assets/a4c1b3fa-2aaf-4f10-a356-81804631bb29" />]()
-[<img width="166.5" height="111" alt="studybudy" src="https://github.com/user-attachments/assets/171a55f9-ed78-494e-b351-f5ce85048494" />]()
-[<img width="166.5" height="111" alt="eznote" src="https://github.com/user-attachments/assets/7bf8dc57-46b4-44ff-9c5e-7cf18b0a52fe" />]()
+<img width="166.5" height="111" alt="mentormatch" src="https://github.com/user-attachments/assets/421d5737-022a-452d-8e08-b7c11f714461" />
+<img width="166.5" height="111" alt="infspec" src="https://github.com/user-attachments/assets/13a39de5-3609-4c9c-8e18-f297c463588a" />
+<img width="166.5" height="111" alt="fineprint" src="https://github.com/user-attachments/assets/61bca201-be82-4dc7-8d7a-ab88834a971c" />
+<img width="166.5" height="111" alt="citygpt" src="https://github.com/user-attachments/assets/a6b622c6-53e8-4bf5-91a2-c7206deb6dd9" />
+<img width="166.5" height="111" alt="bittoss" src="https://github.com/user-attachments/assets/04b386e5-fa68-42f6-888f-d3c0ddfc98ca" />
+<img width="166.5" height="111" alt="crisiscom" src="https://github.com/user-attachments/assets/0b241021-b714-4b35-b0c4-95fd13a0ec4b" />
+<img width="166.5" height="111" alt="studybudy" src="https://github.com/user-attachments/assets/b97143cf-9f32-4428-b26b-05b88cfaeb28" />
+<img width="166.5" height="111" alt="eznote" src="https://github.com/user-attachments/assets/1769096a-e7a2-42ae-9351-a2cc7e3d8d4e" />
