@@ -39,11 +39,11 @@ Programming 2 | Data Structures and Algorithm Analysis | Introduction to Interne
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Projects
-<img width="166.5" height="111" alt="mentormatch" src="https://github.com/user-attachments/assets/421d5737-022a-452d-8e08-b7c11f714461" />
-<img width="166.5" height="111" alt="infspec" src="https://github.com/user-attachments/assets/13a39de5-3609-4c9c-8e18-f297c463588a" />
-<img width="166.5" height="111" alt="fineprint" src="https://github.com/user-attachments/assets/61bca201-be82-4dc7-8d7a-ab88834a971c" />
-<img width="166.5" height="111" alt="citygpt" src="https://github.com/user-attachments/assets/a6b622c6-53e8-4bf5-91a2-c7206deb6dd9" />
-<img width="166.5" height="111" alt="bittoss" src="https://github.com/user-attachments/assets/04b386e5-fa68-42f6-888f-d3c0ddfc98ca" />
-<img width="166.5" height="111" alt="crisiscom" src="https://github.com/user-attachments/assets/0b241021-b714-4b35-b0c4-95fd13a0ec4b" />
-<img width="166.5" height="111" alt="studybudy" src="https://github.com/user-attachments/assets/b97143cf-9f32-4428-b26b-05b88cfaeb28" />
-<img width="166.5" height="111" alt="eznote" src="https://github.com/user-attachments/assets/1769096a-e7a2-42ae-9351-a2cc7e3d8d4e" />
+[<img width="166.5" height="111" alt="mentormatch" src="https://github.com/user-attachments/assets/421d5737-022a-452d-8e08-b7c11f714461" />](https://github.com/fdumary/MentorMatch)
+[<img width="166.5" height="111" alt="infspec" src="https://github.com/user-attachments/assets/13a39de5-3609-4c9c-8e18-f297c463588a" />](https://github.com/fdumary/Infinity-Spectrum)
+[<img width="166.5" height="111" alt="fineprint" src="https://github.com/user-attachments/assets/61bca201-be82-4dc7-8d7a-ab88834a971c" />](https://github.com/fdumary/FinePrint)
+[<img width="166.5" height="111" alt="citygpt" src="https://github.com/user-attachments/assets/a6b622c6-53e8-4bf5-91a2-c7206deb6dd9" />](https://github.com/fdumary/CityGPT)
+[<img width="166.5" height="111" alt="bittoss" src="https://github.com/user-attachments/assets/04b386e5-fa68-42f6-888f-d3c0ddfc98ca" />](https://github.com/fdumary/bit-toss)
+[<img width="166.5" height="111" alt="crisiscom" src="https://github.com/user-attachments/assets/0b241021-b714-4b35-b0c4-95fd13a0ec4b" />](https://github.com/fdumary/Crisis-Commander)
+[<img width="166.5" height="111" alt="studybudy" src="https://github.com/user-attachments/assets/b97143cf-9f32-4428-b26b-05b88cfaeb28" />](https://github.com/fdumary/StudyBudy)
+[<img width="166.5" height="111" alt="eznote" src="https://github.com/user-attachments/assets/1769096a-e7a2-42ae-9351-a2cc7e3d8d4e" />](https://devpost.com/software/eznote-54zo9j)
