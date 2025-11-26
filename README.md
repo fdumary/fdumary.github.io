@@ -47,3 +47,5 @@ Programming 2 | Data Structures and Algorithm Analysis | Introduction to Interne
 [<img width="222" height="148" alt="crisiscom" src="https://github.com/user-attachments/assets/0b241021-b714-4b35-b0c4-95fd13a0ec4b" />](https://github.com/fdumary/Crisis-Commander)
 [<img width="222" height="148" alt="studybudy" src="https://github.com/user-attachments/assets/b97143cf-9f32-4428-b26b-05b88cfaeb28" />](https://github.com/fdumary/StudyBudy)
 [<img width="222" height="148" alt="eznote" src="https://github.com/user-attachments/assets/1769096a-e7a2-42ae-9351-a2cc7e3d8d4e" />](https://devpost.com/software/eznote-54zo9j)
+[<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/50ddbcf1-f40a-4d2b-9d5f-b86eab12c978" />](https://devpost.com/software/hardlaunch)
+[<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/b92bb368-843d-4864-9a5f-fca68fa5d84a" />](https://devpost.com/software/hawkeye-xs4y9b)
