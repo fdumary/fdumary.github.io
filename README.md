@@ -39,6 +39,7 @@ Programming 2 | Data Structures and Algorithm Analysis | Introduction to Interne
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Projects
+[<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/cd008849-27c8-4e10-bde5-7174a593290e" />](https://github.com/fdumary/InsightAI)
 [<img width="222" height="148" alt="medium (1)" src="https://github.com/user-attachments/assets/b92bb368-843d-4864-9a5f-fca68fa5d84a" />](https://github.com/fdumary/HawkEye)
 [<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/50ddbcf1-f40a-4d2b-9d5f-b86eab12c978" />](https://github.com/fdumary/HardLaunch)
 [<img width="222" height="148" alt="mentormatch" src="https://github.com/user-attachments/assets/421d5737-022a-452d-8e08-b7c11f714461" />](https://github.com/fdumary/MentorMatch)
