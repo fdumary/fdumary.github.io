@@ -1,10 +1,3 @@
-# Francesca Dumary
-<img width="300" height="300" alt="banner for github" src="https://github.com/user-attachments/assets/99f34970-0855-4039-9614-33b4245352cc" />
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdumary/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fdumary)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/fdumary)
-
 ## About
 I'm Francesca Dumary, a Computer Science student from Florida Atlantic University. I specialize in Software Development and Web Development. I am proficient in Python, C++, HTML, CSS, and JavaScript. I have participated in hackathons where I created innovative programs, whether alone or as part of a team. My mission is to create solutions that make an impact on our community and empower lives.
 
