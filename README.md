@@ -12,7 +12,7 @@ I'm Francesca Dumary, a Computer Science student from Florida Atlantic Universit
 Bachelor’s of Science in Computer Science | Expected August 2026 | Florida Atlantic University | Boca Raton, FL | GPA: 3.6
 
 ## Courses
-Programming 2 | Data Structures and Algorithm Analysis | Introduction to Internet Computing | Python Programming | Computer Operating Systems | Principles of Software Engineering | Principles of Programming Languages |
+Programming 2 | Data Structures and Algorithm Analysis | Introduction to Internet Computing | Python Programming | Computer Operating Systems | Principles of Software Engineering | Principles of Programming Languages | Introduction to Database Structures
 
 ## Skills
 ### Languages
@@ -50,3 +50,4 @@ Programming 2 | Data Structures and Algorithm Analysis | Introduction to Interne
 [<img width="222" height="148" alt="crisiscom" src="https://github.com/user-attachments/assets/0b241021-b714-4b35-b0c4-95fd13a0ec4b" />](https://github.com/fdumary/Crisis-Commander)
 [<img width="222" height="148" alt="studybudy" src="https://github.com/user-attachments/assets/b97143cf-9f32-4428-b26b-05b88cfaeb28" />](https://github.com/fdumary/StudyBudy)
 [<img width="222" height="148" alt="eznote" src="https://github.com/user-attachments/assets/1769096a-e7a2-42ae-9351-a2cc7e3d8d4e" />](https://devpost.com/software/eznote-54zo9j)
+[<img width="222" height="148" alt="medium" src="https://github.com/user-attachments/assets/20b8a6a2-adf9-47bb-895c-e77c52eb3119" />](https://devpost.com/software/project-name-team-name)
